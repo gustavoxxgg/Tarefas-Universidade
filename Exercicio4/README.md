@@ -1,0 +1,2 @@
+# Enunciado
+Crie um programa que leia dois números inteiros do usuário e imprima a diferença absoluta entre eles. Caso o primeiro número seja maior que o segundo, a diferença entre eles deve ser calculada como a subtração do primeiro pelo segundo. Caso contrário, a diferença deve ser a subtração do segundo pelo primeiro. O resultado deve ser exibido na tela. Utilize a classe Scanner para realizar a leitura dos números.

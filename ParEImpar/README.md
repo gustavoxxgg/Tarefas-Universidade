@@ -1,0 +1,2 @@
+# Enunciado
+Crie um programa que solicite ao usuário que digite um número inteiro e informe se ele é par ou ímpar. Para realizar essa verificação, o programa deve calcular o resto da divisão do número por 2. Caso o resto seja igual a 0, o número é par e o programa deve exibir a mensagem "Par". Caso contrário, o número é ímpar e o programa deve exibir a mensagem "Ímpar". Utilize a classe Scanner para realizar a leitura do número digitado pelo usuário.
