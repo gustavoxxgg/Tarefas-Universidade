@@ -15,4 +15,5 @@ O programa deve ler a entrada do usuário e armazenar as informações de idade,
 - Quantidade de pessoas com altura menor que 1,5 metros;
 - Percentual de pessoas com idade entre 10 e 30 anos;
 - Percentual de pessoas com altura maior que 1,9 metros.
+
 Ao final da execução do programa, o usuário deve ser apresentado com as estatísticas calculadas. Certifique-se de que as informações sejam exibidas de forma clara e legível
