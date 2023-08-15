@@ -1,2 +1,2 @@
-# Exercicios Universidade
- Exercicios soltos que eu fiz na Universidade 😎
+# Tarefas Universidade
+ Tarefas soltas que eu fiz na Universidade 😎
